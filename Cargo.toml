@@ -19,7 +19,7 @@ bevy_hierarchy = "0.14.*"
 bevy_reflect = "0.14.*"
 bevy_scene = "0.14.*"
 bevy_utils = "0.14.*"
-moonshine-util = { version = "0.2.5", path = "../util" }
+moonshine-util = { git = "https://github.com/Zeenobit/moonshine_util.git", branch = "main"}
 
 [dev-dependencies]
 bevy = "0.14.*"
